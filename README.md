@@ -3,7 +3,7 @@ nyc-places
 
 NYC Restaurants and Bars to Try
 
-Dinner:
+<strong>Dinner:</strong>
 
 Red Cat - Farm-to-Table 
 http://www.theredcat.com/redcat.php
