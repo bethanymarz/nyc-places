@@ -42,13 +42,12 @@ http://www.ilbuco.com/
 Mission Chinese*
 http://missionchinesefood.com/ny/
 
-
-Brunch:
+<strong>Brunch:</strong>
 
 Westville 
 http://www.westvillenyc.com/
 
-Cocktails:
+<strong>Cocktails:</strong>
 
 Yerba Buena - Latin cuisine 
 http://ybnyc.com/index_nm.html
